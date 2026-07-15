@@ -3,11 +3,11 @@
 ## Project Structure
 
 ```
-codingslt99/
+99techSolution/
 ├── src/
-│   ├── problem1/          # Sum to N implementations
-│   ├── problem2/          # Token Exchange Application 
-│   └── problem3/          # Wallet Page refactoring
+│   ├── problem1/ # Sum to N implementations
+│   ├── problem2/ # Token Exchange Application 
+│   └── problem3/ # Wallet Page refactoring
 └── README.md
 ```
 ## Setup
